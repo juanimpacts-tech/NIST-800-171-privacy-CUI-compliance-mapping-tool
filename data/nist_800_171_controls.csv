@@ -1,0 +1,5 @@
+Control_ID,Control_Name,Description
+3.1.1,Access Control,Limit system access to authorized users.
+3.1.12,Remote Access,Monitor and control remote access sessions.
+3.8.9,Backup Protection,Protect backup CUI at storage locations.
+3.13.8,Malware Protection,Implement malware protection mechanisms.

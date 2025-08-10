@@ -1,0 +1,13 @@
+{
+    "remote_access": {
+        "enabled": true,
+        "mfa": false
+    },
+    "backup_protection": {
+        "encrypted": true,
+        "fips_compliant": false
+    },
+    "access_control": {
+        "role_based": true
+    }
+}
